@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I really **hope** this is the beginning of an awesome **adventure**.
+I truly **want** to build solutions to fight problems in my country and **continent**.*
